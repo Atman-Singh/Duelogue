@@ -1,0 +1,6 @@
+database.User created successfully: rgangatirkar1.txt,rgangatirkar1,Helios@25,randomProfilePhotoPath
+database.ArgumentTopic created successfully: randomFileCode,Should public universities be tuition-free?,This topic invites discussion on whether higher education should be provided at no cost to students at public universities. Arguments can cover economic impacts, access to education, potential effects on quality and competition, and comparisons to tuition-free models in other countries.,rgangatirkar1,0,randomImagePath
+database.User created successfully: apollo21daboss.txt,apollo21daboss,LikeThat@93,randomProfilePhotoPath
+Commented sucessfully: I don't think taxpayers should subsidize higher education,apollo21daboss,false
+Friend removed successfully
+9000

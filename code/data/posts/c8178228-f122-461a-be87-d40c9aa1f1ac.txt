@@ -1,0 +1,5 @@
+Is remote work the future of employment?@@,@@The pandemic showed us how effective remote work can be. Some companies are making it permanent, but others are forcing employees back to the office. What do you think works better?@@,@@HomerSimpson@@,@@null
+true@@,@@No it is not.@@,@@PeterGriffin@@,@@369d9d93-4164-4f93-aac3-2ff906be4443@@,@@1@@,@@0
+true@@,@@Yes it is@@,@@PeterGriffin@@,@@c86e7dea-4fe7-45c0-9fa8-9c628150bda0@@,@@1@@,@@0
+true@@,@@Is it really though?@@,@@PeterGriffin@@,@@6c82c6ee-d49c-4c54-9dbd-64e8241d2fb8@@,@@1@@,@@0
+true@@,@@I don't think it is@@,@@PeterGriffin@@,@@8a7a7822-de32-40f6-b39c-e3284461bec1@@,@@1@@,@@0
